@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Dani-97/Dani-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Welcome to my GitHub!
+
+• Passionate about technology and the development of cutting-edge software solutions. My goal is to drive technological innovation and generate a positive impact on society.
+
+• I have over three years of experience in the field of Artificial Vision, applying advanced Machine Learning techniques that lead the state of the art. My career has focused on implementing tasks such as classification, segmentation, keypoint detection, and feature extraction using Deep Learning methodologies.
+
+• I have worked extensively with convolutional networks and transformers, integrating strategies such as self-supervision, multi-task learning, transfer learning, and data augmentation (both classical and through synthetic image generation). Additionally, I have developed solutions with explainable AI, classical Machine Learning algorithms for tabular data, and multimodal data fusion (images and tabular data).
+
+• My professional approach is complemented by key skills such as teamwork, critical thinking, flexibility, adaptability to multidisciplinary environments, and a quick learning curve. 
