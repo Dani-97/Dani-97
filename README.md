@@ -12,7 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Welcome to my GitHub! This is what best describes my career so far:
+# Welcome to my GitHub!
+
+<img src="pexels-nickoloui-2506947.jpg"></img>
+
+**This is what best describes my career so far:**
 
 • Passionate about technology and the development of cutting-edge software solutions. My goal is to drive technological innovation and generate a positive impact on society.
 
@@ -21,3 +25,11 @@ Here are some ideas to get you started:
 • I have worked extensively with convolutional networks and transformers, integrating strategies such as self-supervision, multi-task learning, transfer learning, and data augmentation (both classical and through synthetic image generation). Additionally, I have developed solutions with explainable AI, classical Machine Learning algorithms for tabular data, and multimodal data fusion (images and tabular data).
 
 • My professional approach is complemented by other skills such as teamwork, critical thinking, flexibility, adaptability to multidisciplinary environments, and a quick learning curve.
+
+## My profiles:
+
+You can find more interesting things here, in my GitHub, but also in my profiles: 
+
+- <a href="https://www.linkedin.com/in/daniel-iglesias-moris/">LinkedIn Profile</a>
+- <a href="https://huggingface.co/DanielIglesias97">HuggingFace Profile</a>
+- <a href="https://dani-97.github.io/">Personal Portfolio</a>
